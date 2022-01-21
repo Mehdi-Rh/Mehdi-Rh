@@ -40,13 +40,13 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ---
 
-![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehdiRh&theme=radical)
+![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehdiRh&theme=merko)
 
 ---
 
 ### Most used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netman5&hide=ejs&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiRh)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
