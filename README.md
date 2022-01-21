@@ -7,7 +7,7 @@ A Full time student at Microverse, learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other content creators
 - Life student of Web Development
 - 😄 Pronouns: He/Him
-- 🥅 2022 Goals: Contribute to international software development projects via remote collaborating.
+- 🥅 2022 Goals: Contribute to international software development projects via remote collaboration.
 - 📫 Reach me here: Mehdi.rahal92@gmail.com 
 
 ---
