@@ -44,31 +44,6 @@ A Full time student at Microverse, learning Full Stack Web Development.
 
 ---
 
-### Most used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiRh)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#18](https://github.com/netman5/netman5.github.io/pull/18) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
-2. 💪 Opened PR [#18](https://github.com/netman5/netman5.github.io/pull/18) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
-3. 🎉 Merged PR [#17](https://github.com/netman5/netman5.github.io/pull/17) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
-4. 💪 Opened PR [#17](https://github.com/netman5/netman5.github.io/pull/17) in [netman5/netman5.github.io](https://github.com/netman5/netman5.github.io)
-5. ❗️ Closed issue [#2](https://github.com/netman5/To-do/issues/2) in [netman5/To-do](https://github.com/netman5/To-do)
-<!--END_SECTION:activity-->
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=To-do&show_owner=netman5)](https://github.com/netman5/To-do)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=book-collection&show_owner=netman5)](https://github.com/netman5/book-collection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=capstone&show_owner=netman5)](https://github.com/netman5/capstone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netman5&repo=netman5.github.io&show_owner=netman5)](https://github.com/netman5/netman5.github.io)
-
-<p>You can check out my portfolio <a href="https://netman5.github.io/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 [Github]: https://github.com/Mehdi-Rh
 [twitter]: https://twitter.com/MRahal92
