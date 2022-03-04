@@ -1,4 +1,4 @@
-### Hi there,  I am Mehdi Rahal!
+### Hi there,  I am Mehdi!
 
 
 A Full time student at Microverse, learning Full Stack Web Development.
