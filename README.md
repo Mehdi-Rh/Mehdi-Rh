@@ -1,7 +1,7 @@
 ### Hi there,  I am Mehdi!
 
 
-A Full time student at Microverse learning Full Stack Web Development, I practice judo and like reading in my spare time. Looking for my next job.
+A Full time student at Microverse learning Full-stack Web Development, I practice judo and like reading in my spare time. Looking for my next job.
 
 - 🌱 I’m currently working on improving my crafts in Web Development
 - 👯 I’m looking to collaborate with other content creators
